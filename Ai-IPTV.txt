@@ -31,7 +31,6 @@ CCTV1综合,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225816/index.
 CCTV1综合,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1综合,http://[2409:8087:7000:20::11]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8
 CCTV1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-CCTV1综合,https://live.metshop.top/bestv.php?id=cctv1hd8m/8000000
 CCTV1综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV2财经,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw1529316470_522388216/ott.mobaibox.com/PLTV/3/224/3221227696/index.m3u8?icpid=3&RTS=1674385939&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 CCTV2财经,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8
@@ -72,7 +71,6 @@ CCTV3综艺,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/8888
 CCTV3综艺,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225799/index.m3u8
 CCTV3综艺,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 CCTV3综艺,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-CCTV3综艺,https://live.metshop.top/bestv.php?id=CCTV3综艺8m/8000000
 CCTV3综艺,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV4中文国际,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw3970600623_1288321371/ott.mobaibox.com/PLTV/3/224/3221227683/index.m3u8?icpid=3&RTS=1674379791&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb18_80&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 CCTV4中文国际,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw3970110376_2107001207/ott.mobaibox.com/PLTV/3/224/3221227378/index.m3u8?icpid=3&RTS=1674379790&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
@@ -93,7 +91,6 @@ CCTV4中文国际,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/2
 CCTV4中文国际,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 CCTV4中文国际,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 CCTV4中文国际,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-CCTV4中文国际,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
 CCTV4中文国际,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV5体育,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw1664029570_771150888/ott.mobaibox.com/PLTV/3/224/3221228082/index.m3u8?icpid=3&RTS=1674467678&from=40&ocs=2_2409:8087:2004:20:2800:0:df6e:ec04_80&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 CCTV5体育,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw1926342846_771017734/ott.mobaibox.com/PLTV/3/224/3221227640/index.m3u8?icpid=3&RTS=1674386336&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
@@ -119,7 +116,6 @@ CCTV5体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322
 CCTV5体育,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV5体育,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225818/index.m3u8
 CCTV5体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV5体育,https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
 CCTV5体育,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727e617ca0/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMSXw4ajlL%2FoUYC2RZQQDco6uQSifXBocz5ID6RePfIKQ4rFWiHjq%2FeZoDmrzW%2FKlw
 CCTV5体育,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV5+体育赛事,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw88762974_108787118/ott.mobaibox.com/PLTV/3/224/3221228076/index.m3u8?icpid=3&RTS=1674380204&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
