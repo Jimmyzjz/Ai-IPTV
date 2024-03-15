@@ -168,8 +168,7 @@ CCTV11戏曲,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000000
 CCTV11戏曲,http://[2409:8087:7001:20:3::5]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/index.m3u8
 CCTV11戏曲,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001327/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV11戏曲,http://113.57.103.216:9000/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://183.94.1.118:8801/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://183.94.1.118:8801/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11戏曲,http://183.94.1.118:8801/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12社会与法,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 CCTV12社会与法,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225669/index.m3u8
 CCTV12社会与法,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
@@ -178,6 +177,7 @@ CCTV12社会与法,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099
 CCTV12社会与法,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/index.m3u8
 CCTV12社会与法,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV12社会与法,http://113.57.103.216:9000/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12社会与法,http://183.94.1.118:8801/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12社会与法,https://live.v1.mk/api/bestv.php?id=CCTV12社会与法hd8m/8000000
 CCTV13新闻,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV13新闻,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
@@ -191,7 +191,6 @@ CCTV13新闻,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 CCTV13新闻,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 CCTV13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
 CCTV13新闻,rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
-CCTV14,http://183.94.1.118:8801/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14少儿,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV14少儿,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225674/index.m3u8
 CCTV14少儿,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
@@ -200,6 +199,7 @@ CCTV14少儿,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000000
 CCTV14少儿,http://[2409:8087:7001:20:3::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/index.m3u8
 CCTV14少儿,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV14少儿,http://113.57.103.216:9000/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14少儿,http://183.94.1.118:8801/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14少儿,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
 CCTV14少儿,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 CCTV15音乐,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
