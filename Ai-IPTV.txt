@@ -427,7 +427,6 @@ CGTN阿语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTe
 CNA频道,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA频道,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA频道,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-CCTV4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
 
 全球频道,#genre#
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
