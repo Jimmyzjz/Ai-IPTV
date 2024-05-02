@@ -226,12 +226,12 @@ CCTV17农业农村,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PL
 CCTV17农业农村,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225708/index.m3u8
 CCTV17农业农村,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV17农业农村,http://58.248.112.229:8114/GD_CUCC/G_CCTV-17-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBflsNSUvoRXJq9Dxabd45ul6sEw7jHEWykLtxlHY3hJu&amp;p=GITV&amp;area=GD_CUCC&amp;partnerCode=GD_CUCC&amp;token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&amp;version=0.0.0.0&amp;apkVersion=4.2.19&amp;mac=fc:57:03:56:49:16&amp;multicast=0&amp;platform=LIVE&amp;gAreaId=CHN&amp;gAppChannel=DEFAULT&amp;gSoftTermId=TERMINAL&amp;gManufacturer=Hisense&amp;gModel=IP108H&amp;gMac=fc:57:03:56:49:16&amp;gStbId=00000444000710800001FC5703564916&amp;gOsType=android&amp;gOsVersion=4.4.2&amp;gApiLevel=19&amp;gAppVersionCode=4219&amp;gAppVersionName=4.2.19&amp;gDowngrade=EMERGENCY&amp;gProductLineCode=LIVOD&amp;gRomVersion=3.17.2.4602&amp;gTimestamp=1714142953661&amp;gRequests=1&amp;gThirdPartyCDN=0&amp;gGroupCode=&amp;gUserId=002040101532912&amp;isIty=0&amp;gCityCode=DEFAULT&amp;verType=0&amp;Fsv_Tgid=515ea4b3041d0be6&amp;FvSeid=88fe5578aefd65ce&amp;Fsv_filetype=1&amp;Fsv_ctype=LIVES&amp;Fsv_cid=18122&amp;Fsv_chan_hls_se_idx=52&amp;Fsv_TBt=8466808&amp;Fsv_ShiftEnable=1&amp;Fsv_ShiftTsp=120&amp;Fsv_SV_PARAM1=0&amp;Fsv_otype=0&amp;Provider_id=GD_CUCC&amp;Pcontent_id=G_CCTV-17-CQ&amp;Fsv_CMSID=GD_CUCC
-CCTV-17农业农村,http://58.248.112.229:8114/GD_CUCC/G_CCTV-17-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBflsNSUvoRXJq9Dxabd45ul6sEw7jHEWykLtxlHY3hJu&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142953661&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea4b3041d0be6&FvSeid=88fe5578aefd65ce&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18122&Fsv_chan_hls_se_idx=52&Fsv_TBt=8466808&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-17-CQ&Fsv_CMSID=GD_CUCC
+CCTV17农业农村,http://58.248.112.229:8114/GD_CUCC/G_CCTV-17-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBflsNSUvoRXJq9Dxabd45ul6sEw7jHEWykLtxlHY3hJu&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142953661&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea4b3041d0be6&FvSeid=88fe5578aefd65ce&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18122&Fsv_chan_hls_se_idx=52&Fsv_TBt=8466808&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-17-CQ&Fsv_CMSID=GD_CUCC
 CCTV兵器科技,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077907bdcd/1.m3u8?m3u8_level=2
 CCTV第一剧场,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/1.m3u8?m3u8_level=2
 CCTV风云足球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
 CCTV世界地理,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/1.m3u8?m3u8_level=2
-CCTV央视高网,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
+CCTV高尔夫网球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
 CCTV央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
 求索纪录,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
 求索科学,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225728/index.m3u8
@@ -548,18 +548,19 @@ CCTV4K超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playl
 重庆卫视,http://183.94.1.118:8801/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 
 全球频道,#genre#
-半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-东森新闻,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 凤凰香港,http://103.95.24.37:880/fhxgt.m3u8
-凤凰中文,http://113.64.145.61:8081/hls/37/index.m3u8
+凤凰卫视,http://113.64.145.61:8081/hls/37/index.m3u8
 凤凰资讯,http://113.64.145.195:8081/hls/36/index.m3u8
 韩国Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 韩国BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
 韩国Gugak TV,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 韩国国防,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+东森新闻,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-台视新闻HD,https://epg.pw/stream/4c8adef47c01115677bc13b65593946135e6fe8c470fad1db810248c3ca10150.m3u8
+台视新闻,https://epg.pw/stream/4c8adef47c01115677bc13b65593946135e6fe8c470fad1db810248c3ca10150.m3u8
 台湾番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 台湾番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 台湾番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
@@ -570,14 +571,12 @@ TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 Pop,http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
 Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 TBS,http://143.244.60.30/TBS/index.m3u8
 The Weather Channel,http://streamsy.online:2999/coachj88/N93DPKS9pJ/301
 TRT World,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 WE TV,http://streamsy.online:2999/coachj88/N93DPKS9pJ/247
-Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 
 电影频道,#genre#
 动作电影,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225555/index.m3u8
@@ -655,18 +654,6 @@ iPanda基地成年园,http://gctxyc.liveplay.myqcloud.com/gc/xiongmao02_1/index.
 熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao10_2/index.m3u8
 
 地方频道,#genre#
-「北京」BRTV纪实科教,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-「北京」BRTV卡酷少儿,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN164297BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUbM%2BtJ%2FIKUay0816q4f4FPN9pHjY5eGh1%2F3MQt0stvVIcNMY1ycEUDLSM33BfV5mc1yzDtp74FxRG%2BT%2ByX8dhHQ
-「上海」上海新闻,http://php.jdshipin.com:8880/bst.php?id=xwzhhd8m/8000000
-「上海」上海都市,http://php.jdshipin.com:8880/bst.php?id=ylpdhd/4000000
-「上海」东方影视,http://php.jdshipin.com:8880/bst.php?id=dfyshd8m/8000000
-「上海」上海外语,https://itv.lat/tv/live.php?&amp;line=1&amp;id=shics
-「上海」五星体育,http://php.jdshipin.com:8880/bst.php?id=wxtyhd8m/8000000
-「上海」东方财经,https://itv.lat/tv/live.php?&amp;line=1&amp;id=dfcj
-「湖南」金鹰纪实,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4766929BESTVSMGSMG/index.m3u8?m3u8_level=2
-「湖南」湖南都市,http://222.241.154.37:9901/tsfile/live/23021_1.m3u8
-「湖南」金鹰卡通,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF/2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
-「湖南」金鹰卡通,http://106.115.26.98:9999/tsfile/live/1020_1.m3u8
 「湖北」公共新闻,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpyhD%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYMJRxI
 「湖北」湖北经视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807203543e3/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLVCQ3pDe4nBySab%2B3xPL123aTSCRugzF2ABe36IIJw2evZbYdWUo0ffUw53bflDgU
 「湖北」湖北经视,http://113.57.103.216:9000/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -678,10 +665,19 @@ iPanda基地成年园,http://gctxyc.liveplay.myqcloud.com/gc/xiongmao02_1/index.
 「湖北」湖北垄上,http://113.57.103.216:9000/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 「湖北」湖北生活,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072c62e405/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKJPodw5BcDirSOw7egztI5bUvJjqPzSNAhrA37GrbRBIAjGQpzP0QmgsmuHnQyd2c
 「湖北」湖北教育,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc
-「湖北」之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 「湖北」崇阳综合,http://61.184.176.248:10500/live/live.m3u8
 「湖北」荆门科教文旅,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
 「湖北」荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
+「北京」BRTV纪实科教,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+「北京」BRTV卡酷少儿,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN164297BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUbM%2BtJ%2FIKUay0816q4f4FPN9pHjY5eGh1%2F3MQt0stvVIcNMY1ycEUDLSM33BfV5mc1yzDtp74FxRG%2BT%2ByX8dhHQ
+「上海」新闻综合,http://php.jdshipin.com:8880/bst.php?id=xwzhhd8m/8000000
+「上海」上海都市,http://php.jdshipin.com:8880/bst.php?id=ylpdhd/4000000
+「上海」东方影视,http://php.jdshipin.com:8880/bst.php?id=dfyshd8m/8000000
+「上海」五星体育,http://php.jdshipin.com:8880/bst.php?id=wxtyhd8m/8000000
+「湖南」金鹰纪实,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4766929BESTVSMGSMG/index.m3u8?m3u8_level=2
+「湖南」金鹰卡通,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF/2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
+「湖南」金鹰卡通,http://106.115.26.98:9999/tsfile/live/1020_1.m3u8
+「湖南」湖南都市,http://222.241.154.37:9901/tsfile/live/23021_1.m3u8
 「安徽」安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
 「安徽」安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd
 「安徽」池州新闻综合,http://wjsp.chiznews.com:8037/live/xwzh.m3u8
@@ -731,6 +727,7 @@ iPanda基地成年园,http://gctxyc.liveplay.myqcloud.com/gc/xiongmao02_1/index.
 「浙江」YMG未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 「浙江」YMG未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
 「浙江」YMG新闻频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
+「浙江」之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 「浙江」国际频道,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 「浙江」国际频道,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 「浙江」教科影视,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
@@ -759,7 +756,6 @@ iPanda基地成年园,http://gctxyc.liveplay.myqcloud.com/gc/xiongmao02_1/index.
 「浙江」浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 「浙江」浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 「浙江」诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
-「海南」海南文旅,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?IAS
 「海南」海口一套,http://124.225.35.97:16080/live/tv2401.m3u8
 「海南」海口二套,http://124.225.35.97:16080/live/tv2402.m3u8
 「海南」海口三套,http://124.225.35.97:16080/live/tv2403.m3u8
