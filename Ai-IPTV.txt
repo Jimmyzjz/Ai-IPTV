@@ -215,8 +215,8 @@ CCTV4K超高清,https://tv.cry33.com/ys4k.php?id=4k
 台湾番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 台湾番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 台湾番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8?
-台湾番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
-台湾番薯台,https://epg.pw/stream/51cb56342f39e6110b315b4d3c3391ef7b96e4b8cb91bd1e0670393a6da2755f.m3u8
+台湾番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
+台湾番薯,https://epg.pw/stream/51cb56342f39e6110b315b4d3c3391ef7b96e4b8cb91bd1e0670393a6da2755f.m3u8
 泰国 ASTV News 1,http://news1.live14.com/stream/news1_hi.m3u8
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
