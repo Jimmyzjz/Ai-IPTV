@@ -225,8 +225,6 @@ iHOT-爱院线,http://www.a-1.top:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
 咪咕视频_8M1080_湖南bblive-5,http://www.a-1.top:35455/itv/2000000003000000064.m3u8?cdn=hnbblive
 咪咕视频_8M1080_湖南bblive-6,http://www.a-1.top:35455/itv/2000000003000000065.m3u8?cdn=hnbblive
 
-地方频道,#genre#
-
 直播中国,#genre#
 安徽黄山排云亭,http://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
 安徽黄山排云亭,https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
