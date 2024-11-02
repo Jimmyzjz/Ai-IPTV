@@ -1,6 +1,5 @@
 央视,#genre#
-CCTV4K超高清,http://www.a-1.top:35455/ysptp/cctv4k_10m.m3u8
-CCTV4K超高清,http://www.a-1.top:35455/ysptp/cctv4k.m3u8
+
 CCTV1综合,http://www.a-1.top:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
 CCTV1综合,http://www.a-1.top:35455/ysptp/cctv1.m3u8
 CCTV1综合,http://112.123.206.32:808/hls/1/index.m3u8
@@ -63,11 +62,11 @@ CCTV15音乐,http://www.a-1.top:35455/itv/1000000005000265014.m3u8?cdn=ystenlive
 CCTV15音乐,http://www.a-1.top:35455/ysptp/cctv15.m3u8
 CCTV15音乐,http://119.163.199.98:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15音乐,http://www.a-1.top:35455/itv/5000000011000031109.m3u8?cdn=bestzb
-CCTV16奥林匹克,http://www.a-1.top:35455/ysptp/cctv4k16_10m.m3u8
-CCTV16奥林匹克,http://www.a-1.top:35455/ysptp/cctv4k16.m3u8
 CCTV16奥林匹克,http://www.a-1.top:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
 CCTV16奥林匹克,http://www.a-1.top:35455/itv/5000000008000023254.m3u8?cdn=bestzb
 CCTV16奥林匹克,http://www.a-1.top:35455/ysptp/cctv16.m3u8
+CCTV16奥林匹克,http://www.a-1.top:35455/ysptp/cctv4k16_10m.m3u8
+CCTV16奥林匹克,http://www.a-1.top:35455/ysptp/cctv4k16.m3u8
 CCTV17农业农村,http://www.a-1.top:35455/itv/1000000006000268004.m3u8?cdn=ystenlive
 CCTV17农业农村,http://www.a-1.top:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
 CCTV17农业农村,http://www.a-1.top:35455/ysptp/cctv17.m3u8
@@ -214,7 +213,9 @@ CGTN西班牙语,http://www.a-1.top:35455/ysptp/cgtnsp.m3u8
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 
 影视科教,#genre#
-CCTV8K超高清,http://www.a-1.top:35455/ysptp/cctv8k_36m.m3u8
+CCTV8K超高清,http://www.a-1.top:35455/ysptp/cctv8k_36m.m3u8x
+CCTV4K超高清,http://www.a-1.top:35455/ysptp/cctv4k_10m.m3u8
+CCTV4K超高清,http://www.a-1.top:35455/ysptp/cctv4k.m3u8
 纪实科教8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 华数-4K,http://www.a-1.top:35455/itv/6000000003000004748.m3u8?cdn=wasusyt
 纯享-4K,http://www.a-1.top:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
@@ -233,7 +234,7 @@ SiTV-生活时尚,http://www.a-1.top:35455/itv/5000000002000019634.m3u8?cdn=best
 SiTV-游戏风云,http://www.a-1.top:35455/itv/5000000011000031114.m3u8?cdn=bestzb
 台湾番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 
-NEWTV,#genre#
+NewTV,#genre#
 NewTV-爱情喜剧,http://www.a-1.top:35455/itv/2000000003000000010.m3u8?cdn=hnbblive
 NewTV-超级电视剧,http://www.a-1.top:35455/itv/1000000006000268003.m3u8?cdn=ystenlive
 NewTV-超级电影,http://www.a-1.top:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
