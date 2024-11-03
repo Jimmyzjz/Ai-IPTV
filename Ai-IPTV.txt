@@ -33,8 +33,8 @@ CCTV7国防军事,http://www.a-1.top:35455/itv/6000000001000009055.m3u8?cdn=wasu
 CCTV8电视剧,http://www.a-1.top:35455/itv/1000000005000265008.m3u8?cdn=ystenlive
 CCTV8电视剧,http://www.a-1.top:35455/itv/6000000001000001070.m3u8?cdn=wasusyt
 CCTV8电视剧,http://www.a-1.top:35455/ysptp/cctv8.m3u8
-CCTV9记录,http://www.a-1.top:35455/itv/1000000001000014583.m3u8?cdn=ystenlive
-CCTV-9记录,http://www.a-1.top:35455/ysptp/cctv9.m3u8
+CCTV-9,http://www.a-1.top:35455/itv/1000000001000014583.m3u8?cdn=ystenlive
+CCTV-9,http://www.a-1.top:35455/ysptp/cctv9.m3u8
 CCTV-9,http://www.a-1.top:35455/itv/6000000001000032162.m3u8?cdn=wasusyt
 CCTV10科教,http://www.a-1.top:35455/itv/1000000001000023734.m3u8?cdn=ystenlive
 CCTV10科教,http://www.a-1.top:35455/itv/5000000004000012827.m3u8?cdn=bestzb
