@@ -8,7 +8,6 @@ CCTV-4,http://www.a-1.top:35455/ysptp/cctv4.m3u8
 CCTV-4,http://112.123.206.32:808/hls/4/index.m3u8
 CCTV-5,http://www.a-1.top:35455/ysptp/cctv5.m3u8
 CCTV-5,http://www.a-1.top:35455/ysptp/cctv5p.m3u8
-CCTV-5+,http://www.a-1.top:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
 CCTV-6,http://112.123.206.32:808/hls/7/index.m3u8
 CCTV-7,http://www.a-1.top:35455/ysptp/cctv7.m3u8
 CCTV-8,http://www.a-1.top:35455/ysptp/cctv8.m3u8
@@ -32,7 +31,6 @@ CGTN-法语,http://www.a-1.top:35455/ysptp/cgtnfr.m3u8
 CGTN-法语,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 CGTN-西班,http://www.a-1.top:35455/ysptp/cgtnsp.m3u8
 
-
 4K频道,#genre#
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
@@ -48,13 +46,10 @@ CCTV-16,http://www.a-1.top:35455/ysptp/cctv4k16.m3u8
 
 卫视+地方频道,#genre#
 北京卫视,http://www.a-1.top:35455/itv/1000000005000265027.m3u8?cdn=ystenlive
-安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
-安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8?zanhd
 北京卫视,http://119.163.199.98:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://60.210.100.54:352/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://119.163.199.98:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
-浙江卫视,http://223.151.49.74:59901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江国际频道,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
