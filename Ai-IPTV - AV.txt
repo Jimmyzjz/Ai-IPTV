@@ -84,14 +84,14 @@ CGTN-西班牙语,http://www.a-1.top:35455/ysptp/cgtnsp.m3u8
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 SiTV-欢笑剧场-4K,http://www.a-1.top:35455/itv/5000000007000010001.m3u8?cdn=bestzb
-华数-4K,http://www.a-1.top:35455/itv/6000000003000004748.m3u8?cdn=wasusyt
-纯享-4K,http://www.a-1.top:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
-CCTV-8k,http://www.a-1.top:35455/ysptp/cctv8k_36m.m3u8
-CCTV-4k,http://www.a-1.top:35455/ysptp/cctv4k_10m.m3u8
-CCTV-4k,http://www.a-1.top:35455/ysptp/cctv4k.m3u8
-CCTV-16,http://www.a-1.top:35455/ysptp/cctv4k16_10m.m3u8
-CCTV-16,http://www.a-1.top:35455/ysptp/cctv4k16.m3u8
-CCTV-16-4K-HEVC,http://www.a-1.top:35455/itv/5000000008000023254.m3u8?cdn=bestzb
+华数-4K,,http://www.a-1.top:35455/itv/6000000003000004748.m3u8?cdn=wasusyt
+纯享-4K,,http://www.a-1.top:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
+CCTV-8K,http://www.a-1.top:35455/ysptp/cctv8k_36m.m3u8
+CCTV-4K,http://www.a-1.top:35455/ysptp/cctv4k_10m.m3u8
+CCTV-4K,http://www.a-1.top:35455/ysptp/cctv4k.m3u8
+CCTV-16-4K,http://www.a-1.top:35455/ysptp/cctv4k16_10m.m3u8
+CCTV-16-4K,http://www.a-1.top:35455/ysptp/cctv4k16.m3u8
+CCTV-16-4K,http://www.a-1.top:35455/itv/5000000008000023254.m3u8?cdn=bestzb
 斗鱼电影1,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 斗鱼电影2,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 斗鱼电影3,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=2ccc7b4ba29208aaba62dae54cbbd68c&token=cpn-androidmpro-0-20415-b6774b3b3249db17fff84d73c7585c95e780dbccdb08e4bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
