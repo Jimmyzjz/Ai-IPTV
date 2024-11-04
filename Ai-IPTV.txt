@@ -1,50 +1,45 @@
-央视频道,#genre#
-CCTV-1,http://www.a-1.top:35455/ysptp/CCTV-1.m3u8
-CCTV-1,http://112.123.206.32:808/hls/1/index.m3u8
-CCTV-2,http://www.a-1.top:35455/itv/1000000001000023315.m3u8?cdn=ystenlive
-CCTV-2,http://www.a-1.top:35455/ysptp/CCTV-2.m3u8
-CCTV-2,http://112.123.206.32:808/hls/2/index.m3u8
-CCTV-3,http://www.a-1.top:35455/itv/1000000005000265003.m3u8?cdn=ystenlive
-CCTV-3,http://www.a-1.top:35455/ysptp/CCTV-3.m3u8
-CCTV-4,http://www.a-1.top:35455/ysptp/CCTV-4.m3u8
-CCTV-4,http://112.123.206.32:808/hls/4/index.m3u8
-CCTV-5,http://www.a-1.top:35455/itv/1000000005000265005.m3u8?cdn=ystenlive
-CCTV-5,http://www.a-1.top:35455/ysptp/CCTV-5.m3u8
-CCTV-5,http://www.a-1.top:35455/ysptp/CCTV-5p.m3u8
-CCTV-6,http://112.123.206.32:808/hls/7/index.m3u8
-CCTV-7,http://www.a-1.top:35455/ysptp/CCTV-7.m3u8
-CCTV-7,http://112.123.206.32:808/hls/7/index.m3u8
-CCTV-8,http://www.a-1.top:35455/ysptp/CCTV-8.m3u8
-CCTV-9,http://www.a-1.top:35455/ysptp/CCTV-9.m3u8
-CCTV-10,http://www.a-1.top:35455/ysptp/CCTV-10.m3u8
-CCTV-10,http://221.213.69.82:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-11,http://www.a-1.top:35455/ysptp/CCTV-11.m3u8
-CCTV-12,http://www.a-1.top:35455/ysptp/CCTV-12.m3u8
-CCTV-13,http://www.a-1.top:35455/ysptp/CCTV-13.m3u8
-CCTV-14,http://www.a-1.top:35455/ysptp/CCTV-14.m3u8
-CCTV-15,http://www.a-1.top:35455/ysptp/CCTV-15.m3u8
-CCTV-16,http://www.a-1.top:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
-CCTV-16,http://www.a-1.top:35455/ysptp/CCTV-16.m3u8
-CCTV-17,http://www.a-1.top:35455/ysptp/cctv17.m3u8
-CCTV-17,http://60.210.100.54:352/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-CGTN记录,http://www.a-1.top:35455/ysptp/cgtndoc.m3u8
-CGTN英语,http://www.a-1.top:35455/ysptp/cgtnen.m3u8
-CGTN阿语,http://www.a-1.top:35455/ysptp/cgtnar.m3u8
-CGTN阿语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-CGTN俄语,http://www.a-1.top:35455/ysptp/cgtnru.m3u8
-CGTN法语,http://www.a-1.top:35455/ysptp/cgtnfr.m3u8
-CGTN法语,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-CGTN西班牙语,http://www.a-1.top:35455/ysptp/cgtnsp.m3u8
+央视,#genre#
+CCTV-1.http://www.a-1.top:35455/ysptp/cctv1.m3u8
+CCTV-1.http://112.123.206.32:808/hls/1/index.m3u8
+CCTV-2.http://www.a-1.top:35455/ysptp/cctv2.m3u8
+CCTV-2.http://112.123.206.32:808/hls/2/index.m3u8
+CCTV-3.http://www.a-1.top:35455/ysptp/cctv3.m3u8
+CCTV-4.http://www.a-1.top:35455/ysptp/cctv4.m3u8
+CCTV-4.http://112.123.206.32:808/hls/4/index.m3u8
+CCTV-5.http://www.a-1.top:35455/ysptp/cctv5.m3u8
+CCTV-5.http://www.a-1.top:35455/ysptp/cctv5p.m3u8
+CCTV-5+.http://www.a-1.top:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
+CCTV-6.http://112.123.206.32:808/hls/7/index.m3u8
+CCTV-7.http://www.a-1.top:35455/ysptp/cctv7.m3u8
+CCTV-8.http://www.a-1.top:35455/ysptp/cctv8.m3u8
+CCTV-9.http://www.a-1.top:35455/ysptp/cctv9.m3u8
+CCTV-10.http://www.a-1.top:35455/ysptp/cctv10.m3u8
+CCTV-10.http://221.213.69.82:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-11.http://www.a-1.top:35455/ysptp/cctv11.m3u8
+CCTV-12.http://www.a-1.top:35455/ysptp/cctv12.m3u8
+CCTV-13.http://www.a-1.top:35455/ysptp/cctv13.m3u8
+CCTV-14.http://www.a-1.top:35455/ysptp/cctv14.m3u8
+CCTV-15.http://www.a-1.top:35455/ysptp/cctv15.m3u8
+CCTV-16.http://www.a-1.top:35455/ysptp/cctv16.m3u8
+CCTV-17.http://www.a-1.top:35455/ysptp/cctv17.m3u8
+CCTV-17.http://60.210.100.54:352/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN-记录.http://www.a-1.top:35455/ysptp/cgtndoc.m3u8
+CGTN-英语.http://www.a-1.top:35455/ysptp/cgtnen.m3u8
+CGTN-阿语.http://www.a-1.top:35455/ysptp/cgtnar.m3u8
+CGTN-阿语.https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+CGTN-俄语.http://www.a-1.top:35455/ysptp/cgtnru.m3u8
+CGTN-法语.http://www.a-1.top:35455/ysptp/cgtnfr.m3u8
+CGTN-法语.https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+CGTN-西班.http://www.a-1.top:35455/ysptp/cgtnsp.m3u8
 
-4K 8K频道,#genre#
-Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-CCTV4K超高清,http://www.a-1.top:35455/ysptp/cctv4k.m3u8
-CCTV4K超高清,http://www.a-1.top:35455/ysptp/cctv4k_10m.m3u8
-CCTV-16 4K,http://www.a-1.top:35455/ysptp/cctv4k16_10m.m3u8
-CCTV-16 4K,http://www.a-1.top:35455/ysptp/cctv4k16.m3u8
-北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
-CCTV 8K,http://www.a-1.top:35455/ysptp/cctv8k_36m.m3u8
+4K频道,#genre#
+CCTV-8k.http://www.a-1.top:35455/ysptp/cctv8k_36m.m3u8
+CCTV-4k.http://www.a-1.top:35455/ysptp/cctv4k_10m.m3u8
+CCTV-4k.http://www.a-1.top:35455/ysptp/cctv4k.m3u8
+CCTV-16.http://www.a-1.top:35455/ysptp/cctv4k16_10m.m3u8
+CCTV-16.http://www.a-1.top:35455/ysptp/cctv4k16.m3u8
+Love Nature 4K.https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Loupe 4K.https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 斗鱼电影1,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 斗鱼电影2,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 斗鱼电影3,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=2ccc7b4ba29208aaba62dae54cbbd68c&token=cpn-androidmpro-0-20415-b6774b3b3249db17fff84d73c7585c95e780dbccdb08e4bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
@@ -52,7 +47,7 @@ CCTV 8K,http://www.a-1.top:35455/ysptp/cctv8k_36m.m3u8
 
 
 卫视+地方频道,#genre#
-北京卫视-HEVC,http://www.a-1.top:35455/itv/1000000005000265027.m3u8?cdn=ystenlive
+北京卫视,http://www.a-1.top:35455/itv/1000000005000265027.m3u8?cdn=ystenlive
 安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
 安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8?zanhd
 北京卫视,http://119.163.199.98:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
