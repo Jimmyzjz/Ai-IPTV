@@ -11,6 +11,7 @@ CCTV-4,http://112.123.206.32:808/hls/4/index.m3u8
 CCTV-5,http://www.a-1.top:35455/itv/1000000005000265005.m3u8?cdn=ystenlive
 CCTV-5,http://www.a-1.top:35455/ysptp/CCTV-5.m3u8
 CCTV-5,http://www.a-1.top:35455/ysptp/CCTV-5p.m3u8
+CCTV-6,http://112.123.206.32:808/hls/7/index.m3u8
 CCTV-7,http://www.a-1.top:35455/ysptp/CCTV-7.m3u8
 CCTV-7,http://112.123.206.32:808/hls/7/index.m3u8
 CCTV-8,http://www.a-1.top:35455/ysptp/CCTV-8.m3u8
