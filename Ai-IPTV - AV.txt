@@ -76,6 +76,9 @@ CGTN-法语,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802L
 CGTN-西班牙语,http://www.a-1.top:35455/ysptp/cgtnsp.m3u8
 
 4K 8K高清频道,#genre#
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 CCTV-8K,http://www.a-1.top:35455/ysptp/cctv8k_36m.m3u8
 CCTV-4K,http://www.a-1.top:35455/ysptp/cctv4k_10m.m3u8
 CCTV-4K,http://www.a-1.top:35455/ysptp/cctv4k.m3u8
@@ -321,6 +324,7 @@ BEYOND-血染的风采,https://rescdn.yishihui.com/longvideo/transcode/video/vpc
 孤独的王,http://mobi.kuwo.cn/tmevideo/tme1257703.mp4
 你的万水千山-海来阿木,https://vd4.bdstatic.com/mda-ki4i7gfqw6cw6hq0/v1-cae/1080p/mda-ki4i7gfqw6cw6hq0.mp4
 山歌《阿里山的姑娘》《康定情歌》《山路十八弯》《敖包相会》,https://vdse.bdstatic.com//ae82f5b93166f47d85ff12124a021323.mp4
+
 成人频道,#genre#
 japanhdv,http://rhsbjv7k.tvclub.xyz/iptv/7XBZV8CQEYWT3U/6225/index.m3u8
 japanhdv,http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6225/index.m3u8
